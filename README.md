@@ -27,7 +27,11 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/sayantanioA) 
 
-  
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sayantani&label=Profile%20Views&color=2&icon=5&pretty=true" />
+</a>
+
+  [![](https://visitcount.itsvg.in/api?id=Sayantani&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
