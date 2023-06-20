@@ -1,6 +1,7 @@
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sayantani&label=Profile%20Views&color=2&icon=5&pretty=true" />
+ <a href="https://visitcount.itsvg.in">
+ <img src="https://visitcount.itsvg.in/api?id=Sayantani&label=Profile%20Views&color=2&icon=5&pretty=true" />
 </a>
+
 # 💫 About Me:
 🔭Frontend Developer with a passion for learning.<br>💻Experienced in HTML, CSS, and JavaScript.<br>🤏Basic knowledge of backend technologies.<br>💡Eager to learn new things and take on new challenges.<br>✨Proven ability to work independently and as part of a team.<br>🗣️Excellent communication and problem-solving skills.<br>🏔️I am a mountaineer and adventurer with a keen curiosity for new experiences and challenges. <br>🌄I am passionate about exploring the outdoors and pushing myself to my limits.<br>😂Fun Fact : "Why did the developer get a tattoo of a stack trace?<br> ->  So he could always trace back his errors."<br>
 
