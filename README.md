@@ -3,7 +3,7 @@
 </a>
 
 # 💫 About Me:
-🔭Frontend Developer with a passion for learning.<br>💻Experienced in HTML, CSS, and JavaScript.<br>🤏Basic knowledge of backend technologies.<br>💡Eager to learn new things and take on new challenges.<br>✨Proven ability to work independently and as part of a team.<br>🗣️Excellent communication and problem-solving skills.<br>🏔️I am a mountaineer and adventurer with a keen curiosity for new experiences and challenges. <br>🌄I am passionate about exploring the outdoors and pushing myself to my limits.<br>😂Fun Fact : "Why did the developer get a tattoo of a stack trace?<br> ->  So he could always trace back his errors."<br>
+🔭Experienced analyst proficient in data handling and problem-solving. <br>💻pecializes in visualizing data for improved workflow efficiency. <br> 📈Expertise in leveraging diverse datasets for insightful analysis.<br>💡Eager to learn new things and take on new challenges.<br>✨Proven ability to work independently and as part of a team.<br>🗣️Excellent communication and problem-solving skills.<br>🏔️I am a mountaineer and adventurer with a keen curiosity for new experiences and challenges. <br>🌄I am passionate about exploring the outdoors and pushing myself to my limits.<br>😂Fun Fact : "Why did the developer get a tattoo of a stack trace?<br> ->  So he could always trace back his errors."<br>
 
 
 ## 🌐 Socials:
